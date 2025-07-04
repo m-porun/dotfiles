@@ -1,2 +1,8 @@
 ---
+"workspace:move_tab_right": none
+"workspace:move_tab_left": none
+"terminal:executing_command_move_cursor_home": none
+"terminal:executing_command_move_cursor_end": none
 "workspace:show_settings": none
+"pane_group:add_down": none
+"workspace:toggle_command_palette": none
