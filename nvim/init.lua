@@ -6,7 +6,7 @@ vim.opt.number = true           -- 行番号を表示
 vim.opt.relativenumber = false  -- 相対行番号を表示
 vim.opt.cursorline = true       -- カーソル行をハイライト
 vim.opt.termguicolors = true    -- 24ビットカラーを使用
-vim.opt.warp = false            -- 折り返しをなくす
+vim.opt.wrap = false            -- 折り返しをなくす
 
 -- インデントとタブの設定
 vim.opt.expandtab = true        -- タブをスペースに変換
