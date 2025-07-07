@@ -1,8 +1,12 @@
 ---
-"workspace:move_tab_right": none
+"workspace:toggle_command_palette": none
+"terminal:focus_input": none
 "workspace:move_tab_left": none
 "terminal:executing_command_move_cursor_home": none
-"terminal:executing_command_move_cursor_end": none
+"find:find_next_occurrence": none
+"notebookview:focus_terminal_input": none
 "workspace:show_settings": none
+"terminal:executing_command_move_cursor_end": none
+"ai_assistant_panel:focus_terminal_input": none
 "pane_group:add_down": none
-"workspace:toggle_command_palette": none
+"workspace:move_tab_right": none
