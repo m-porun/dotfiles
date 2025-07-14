@@ -135,5 +135,11 @@ return {
         desc = "Toggle File Explorer",
       },
     },
+  },
+  -- markdown見やすくするやつ
+  {
+    "MeanderingProgrammer/render-markdown.nvim",
+    dependencies = { "nvim-treesitter/nvim-treesitter", "nvim-tree/nvim-web-devicons" },
+    opts = {},
   }
 }
